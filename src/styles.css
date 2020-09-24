@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.parte-arriba{
+  background-color: aqua;
+
+}
+.tuerca{
+border: none;
+background: none;
+margin-bottom: 50px;
+margin-left: 70%;
+}
+.perfil{
+border-style:solid;
+border-color:aqua;
+border-radius: 80%;
+height: 90px;
+}
+.barra{
+ margin-top:70px; 
+}
+.masculino{
+  margin-top:30px
+}
+.nombre{
+  margin-top:20px;
+}
+.edad{
+  margin-top: 30px;
+}
+
